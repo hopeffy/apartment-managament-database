@@ -5,6 +5,6 @@
 
 
 # ER Diagram 
-![ER diagram](https://github.com/hopeffy/apartment-managament-database/blob/main/er-diagram.jpg)
+![ER diagram](https://github.com/hopeffy/apartment-managament-database/blob/main/er-diagram.jpg?raw=true)
 
 
