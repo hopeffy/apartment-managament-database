@@ -1,8 +1,6 @@
-# apartment-managament-database
+# Apartment Managament Database
 
-# Purpose 
-- Create a sample of database of apartment management. 
-
+**Sample of database of apartment management.**
 
 # ER Diagram 
 ![ER diagram](https://github.com/hopeffy/apartment-managament-database/blob/main/images/er-diagram.jpg)
